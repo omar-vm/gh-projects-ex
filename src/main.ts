@@ -70,4 +70,4 @@ if (typeof document !== 'undefined') {
   
   // Inicializar al cargar: reflejar valor inicial y persistir
   updateDisplay();
-}
+}// CI/CD con Docker y GitHub Actions
