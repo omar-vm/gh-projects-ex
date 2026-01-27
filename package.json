@@ -1,0 +1,29 @@
+{
+  "name": "gh-projects-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "build": "tsc",
+      "test": "vitest run",
+      "test:watch": "vitest",
+      "test:ui": "vitest --ui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omar-vm/gh-projects-ex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/omar-vm/gh-projects-ex/issues"
+  },
+  "homepage": "https://github.com/omar-vm/gh-projects-ex#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.9",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.17"
+  }
+}
